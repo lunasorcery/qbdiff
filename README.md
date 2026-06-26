@@ -1,5 +1,7 @@
 # qbdiff
 
+*Note: I made this almost a decade ago, but apparently doing a `git commit --amend` and force-pushing over it changes the commit timestamp in the GitHub UI (and only the GitHub UI, it still renders as-was in a `git log`). Computers, amirite?*
+
 **qbdiff** (**q**uick **b**inary **diff**) provides a quick overview of where the contents of two binary files diverge.
 
 Usage:  ``qbdiff FILES``
